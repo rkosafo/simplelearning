@@ -348,3 +348,13 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+**/node_modules/
+/dist/
+.DS_Store
+**/.history
+src/tmp/
+.routify
+.netlify
+assets/build
+.vercel
